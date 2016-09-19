@@ -398,7 +398,7 @@ msgstr ""
 "numérico se você necessita disto maior. Exemplo: 900"
 
 #: inc/config-settings.php:262
-msgid "Enable Well"
+msgid "Enable Wrap"
 msgstr "Ativar roda"
 
 #: inc/config-settings.php:263

@@ -394,7 +394,7 @@ msgstr ""
 "hvis du har brug for en større bredde. Eksempel: 900"
 
 #: inc/config-settings.php:262
-msgid "Enable Well"
+msgid "Enable Wrap"
 msgstr "Aktiver Well"
 
 #: inc/config-settings.php:263

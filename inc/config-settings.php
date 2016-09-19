@@ -269,7 +269,7 @@ function seed_csp4_get_options(){
     $seed_csp4_options[ ] = array(
         "type" => "checkbox",
         "id" => "enable_well",
-        "label" => __( "Enable Well", 'coming-soon' ),
+        "label" => __( "Enable Wrap", 'coming-soon' ),
         "desc" => __("This will wrap your content in a box.", 'coming-soon'),
         "option_values" => array(
              '1' => __( 'Yes', 'coming-soon' ),

@@ -371,7 +371,7 @@ msgid ""
 msgstr ""
 
 #: inc/config-settings.php:262
-msgid "Enable Well"
+msgid "Enable Wrap"
 msgstr ""
 
 #: inc/config-settings.php:263

@@ -398,7 +398,7 @@ msgstr ""
 "numeriskt värde om du behöver en större maxbredd. Exempel: 900"
 
 #: inc/config-settings.php:262
-msgid "Enable Well"
+msgid "Enable Wrap"
 msgstr "Aktivera Behållare"
 
 #: inc/config-settings.php:263
